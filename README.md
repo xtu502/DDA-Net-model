@@ -1,1 +1,1 @@
-Attention embedded mobile neural networks for crop disease identification; Junde Chen, Defu Zhang , Y.A. Nanehkaran; 2020
+Automatic crop disease identification under field conditions using mobile neural network; 2020
